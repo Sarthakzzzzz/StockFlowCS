@@ -1,3 +1,13 @@
-Working On part 2 and Part 3 
-part 2 Database Design 
-part 3 API implementation
+# StockFlow Case Study 
+
+## PART 1 : Code Review
+
+---
+
+## PART 2: DATABASE SCHEMSA DESIGN
+
+---
+
+## PART 3: API IMPLEMENTATION
+
+---
